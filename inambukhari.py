@@ -43,7 +43,7 @@ NAME = "Inam Bukhari "
 DESCRIPTION = """
 Technology Advisor, assisting enterprises by supporting data-driven decision-making and by buidling the necessary underlying Big Data infrastructure.
 """
-EMAIL = "inambukhari@email.com"
+EMAIL = "inambukhari@gmail.com"
 
 
 # --- HERO SECTION ---
