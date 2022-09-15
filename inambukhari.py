@@ -5,6 +5,9 @@ import os
 import yaml
 from PIL import Image
 
+from deta import Deta
+import datetime
+
 # --- PATH SETTINGS ---
 css_file = "./styles/main.css"
 resume_file = "./assets/CV.pdf"
@@ -62,7 +65,38 @@ with col2:
 # --- EXPERIENCE & QUALIFICATIONS ---
 st.write('\n')
 
-tabQualification, tabExperience, tabSkills, tabWorkHistory = st.tabs(["Qulifications", "Experience", "Skills","Work History"])
+tabQualification, tabExperience, tabSkills, tabWorkHistory, tabContactform = st.tabs(["Qulifications", "Experience", "Skills","Work History", "Contact Form"          ])
+
+# 0: -- CONTACTFORM ---
+with tabContactform:
+
+    with st.form(key='contact_form', clear_on_submit = True):
+        name = st.text_input('Name')
+        email = st.text_input('Email')
+        qry = st.text_area('Detailed Query')
+        submitted = st.form_submit_button("Submit")
+
+    # Connect to Deta Base with your Project Key
+    deta = Deta(st.secrets["deta_key"])  
+    # Create a new database "example-db"
+    # If you need a new database, just use another name.
+    db = deta.Base("example-db")
+    # If the user clicked the submit button,
+    # write the data from the form to the database.
+    # You can store any data you want here. Just modify that dictionary below (the entries between the {}).
+    if submitted:
+        if name and email and qry:
+            db.put({"name": name, "email": email, "qry":qry})
+            st.write("Hi " + name + "(" + email +")")
+            st.info("Your query submitted successfully")
+        else:
+            st.error("Please provide all fields")
+
+
+
+
+
+
 
 # 1: -- QUALIFICATION ---
 with tabQualification:
