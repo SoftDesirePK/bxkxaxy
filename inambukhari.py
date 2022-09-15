@@ -55,7 +55,7 @@ with col2:
     st.title(NAME)
     st.write(DESCRIPTION)
     #st.download_button(label=" 📄 Download Resume",data=PDFbyte,file_name=resume_file.name,mime="application/octet-stream",)
-    st.write(":e-mail:", EMAIL, " 📞+966 54 00 33 213" )
+    st.write(":e-mail:", EMAIL, " 📞+966 54 00 33 213 (Whatsapp Only)" )
     st.write(f"📝 [Blog](http://dbmentors.blogspot.com/)", f":large_blue_circle: [Linkedin](https://www.linkedin.com/in/bukhary/)", f":large_blue_diamond: [Twitter](https://twitter.com/BukhariInam)")
 
 
