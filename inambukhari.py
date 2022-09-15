@@ -62,7 +62,7 @@ with col2:
 # --- EXPERIENCE & QUALIFICATIONS ---
 st.write('\n')
 
-tabQualification, tabExperience, tabSkills, tabWorkHistory,tabProjects = st.tabs(["Qulifications", "Experience", "Skills","Work History","Projects"])
+tabQualification, tabExperience, tabSkills, tabWorkHistory = st.tabs(["Qulifications", "Experience", "Skills","Work History"])
 
 # 1: -- QUALIFICATION ---
 with tabQualification:
