@@ -42,7 +42,7 @@ profile_pic = Image.open(profile_pic)
 PAGE_TITLE = "Digital CV | Inam Bukhari"
 #PAGE_ICON = ":wave:" 
 PAGE_ICON = "🚀"
-NAME = "Inam Ullah Bukhari "
+NAME = "Inam Ullah Bukhari 🇵🇰"
 DESCRIPTION = """
 Technology Advisor, assisting enterprises by supporting data-driven decision-making and by buidling the necessary underlying Big Data infrastructure.
 """
