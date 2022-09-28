@@ -113,6 +113,8 @@ with tabQualification:
 - ✔️ DataCamp Certification on Intro to **Statistics with R**
 - ✔️ 5-Day **Digital Business Tranformation** Challenge
 - ✔️ Congnitive Class - **Blockchain Essentials**
+- ✔️ KNIME Analytics Platform - **Data Science with KNIME**
+- ✔️ IBM - **Hadoop Foundations**
 - ✔️ Dremio University - **Dremio Fundamentals**
 - ✔️ Dremio University - **Dremio Reflections**
 - ✔️ Dremio University - **Dremio for Data Consumers**
