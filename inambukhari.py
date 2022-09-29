@@ -119,6 +119,10 @@ with tabQualification:
 - ✔️ Dremio University - **Dremio Reflections**
 - ✔️ Dremio University - **Dremio for Data Consumers**
 - ✔️ MongoDB University- **MongoDB for DBAs**
+- ✔️ HPE - Intro to Artificial Intelligence & Machine Learning
+- ✔️ HPE - Machine Learning Project Success Planning
+- ✔️ HPE - Machine Learning Pipeline: Prepare
+- ✔️ HPE - Machine Learning Pipeline: Implement
 - ✔️ Virtual University of Pakistan Certification on **Data Warehousing**
 - ✔️ Brain Bench Certification on **Oracle PL/SQL**
 - ✔️ Brain Bench Certification on **Oracle Forms** 6.0
@@ -276,6 +280,7 @@ with tabSkills:
         - Statistical modeling analysis
         - Data mining and modeling
         - Time series Forecast (Prophet API)
+        - KNIME Analytics Platform
 
 
      
