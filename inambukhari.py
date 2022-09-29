@@ -120,6 +120,7 @@ with tabQualification:
 - ✔️ Dremio University - **Dremio for Data Consumers**
 - ✔️ MongoDB University- **MongoDB for DBAs**
 - ✔️ Distributed SQL Analytics with **Presto**
+- ✔️ **HP Data Fabric** Fundamentals
 - ✔️ HPE - Intro to Artificial Intelligence & Machine Learning
 - ✔️ HPE - Machine Learning Project Success Planning
 - ✔️ HPE - Machine Learning Pipeline: Prepare
