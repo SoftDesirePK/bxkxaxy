@@ -123,6 +123,7 @@ with tabQualification:
 - ✔️ HPE - Machine Learning Project Success Planning
 - ✔️ HPE - Machine Learning Pipeline: Prepare
 - ✔️ HPE - Machine Learning Pipeline: Implement
+- ✔️ HPE - *Swarm Learning* Essentials
 - ✔️ Virtual University of Pakistan Certification on **Data Warehousing**
 - ✔️ Brain Bench Certification on **Oracle PL/SQL**
 - ✔️ Brain Bench Certification on **Oracle Forms** 6.0
