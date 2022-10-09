@@ -156,6 +156,10 @@ with tabQualification:
 - ✔️ Business Process Redesigned (*KSA*)
 - ✔️ IBM Optim Test Data Management (*KSA*)
 - ✔️ Information Security Management System (**ITSM**) - SGS *Pakistan*
+- ✔️ Cloudera
+      - Cloudera Essentials for CDP
+      - Cloudera DWH - Self Service Analytics
+      - Cloudera Machine Learning
 
 
 
