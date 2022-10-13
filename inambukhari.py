@@ -159,6 +159,8 @@ with tabQualification:
 - ✔️ Cloudera Essentials for CDP
 - ✔️ Cloudera DWH - Self Service Analytics
 - ✔️ Cloudera Machine Learning
+- ✔️ Official (ISC)2 Certified in Cybersecurity
+
 
 
 
